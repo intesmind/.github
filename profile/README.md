@@ -1,12 +1,8 @@
-## Hi there 👋
+<p align="center"><a href="https://intesmind.ru/" target="_blank"><img src="https://intesmind.ru/public/src/images/logotype/mian.svg" width="350"></a></p>
 
-<!--
+## About Intesmind
 
-**Here are some ideas to get you started:**
+Intesmind is a Russian IT company that specializes in developing its own commercial projects and executing large orders from companies and government organizations. The company was founded in 2023.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Intesmind specializes in developing and implementing software solutions in areas such as banking, telecommunications, energy, medicine, and government management. The company provides a full cycle of software development services, including consulting, design, development, testing, implementation, and support.
+
